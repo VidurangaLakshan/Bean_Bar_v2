@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56467902630",
+    "project_id": "bean-bar-v2",
+    "storage_bucket": "bean-bar-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56467902630:android:9e1e529a5844d29522a467",
+        "android_client_info": {
+          "package_name": "com.bean.bar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlExBc0cqFgNLXrzkMlaIoxnQtRJP2JJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
